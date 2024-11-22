@@ -1,6 +1,6 @@
 {
   "name": "NZ_BOT",
-  "version": "2.2.2",
+  "version": "2.0.0",
   "description": "Um bot de WhatsApp multifunções.",
   "main": "./src/index.js",
   "scripts": {
@@ -11,8 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "baileys": "github:WhiskeySockets/Baileys",
     "axios": "^1.7.7",
+    "baileys": "github:WhiskeySockets/Baileys",
+    "cfonts": "^3.3.0",
     "correios-brasil": "^3.0.6",
     "hercai": "^12.4.0",
     "pino": "^9.5.0",
