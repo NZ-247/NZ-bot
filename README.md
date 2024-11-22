@@ -1,14 +1,14 @@
-# 🤖 Takeshi Bot
+# 🤖 NZ° Bot
 
 <div align="center">
-    <img src="./assets/images/takeshi-bot.png" width="500">
+    <img src="./assets/images/NZ-bot.png" width="500">
 </div>
 
 <br />
 
 <div align="center">
     <a href="https://github.com/guiireal/takeshi-bot">
-        <img alt="Version" src="https://img.shields.io/badge/Vers%C3%A3o-2.2.2-blue">
+        <img alt="Version" src="https://img.shields.io/badge/Vers%C3%A3o-2.0.0-blue">
     </a>
 </div>
 
